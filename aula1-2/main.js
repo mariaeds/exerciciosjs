@@ -43,3 +43,7 @@ function primo(e){
         alert("O numero " + num + " não é primo");        
     }
 }
+
+function operacao(){
+    
+}
